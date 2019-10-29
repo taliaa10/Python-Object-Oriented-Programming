@@ -31,13 +31,13 @@ class Customer:
     def requestBook(self):
         print()
         print('Enter the name of a book you would like to borrow: ')
-        self.book = raw_input()
+        self.book = input()
         return self.book
 
     def returnBook(self):
         print()
         print('Enter the name of the book which you are returning: ')
-        self.book = raw_input()
+        self.book = input()
         return self.book
 
 
