@@ -1,8 +1,0 @@
-employee.displayNumberOfWorkingHours()
-# trainee = Trainee()
-# trainee.setNumberOfWorkingHours()
-# print('Number of working hours trainee:', end=' ')
-# trainee.displayNumberOfWorkingHours()
-# trainee.resetNumberOfWorkingHours()
-# print('Number of working hours trainee after reset:', end=' ')
-# trainee.displayNumberOfWorkingHours()
